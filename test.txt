@@ -1,0 +1,4 @@
+        name: "选择节日（可多选）",
+        selectkey: "attr_100",
+        type: "multi",
+        showtype: "laylist"
