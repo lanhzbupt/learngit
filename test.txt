@@ -9,3 +9,5 @@ wrote a readme file. add 2
 
 add distributed.     add 3
 
+append GPL.          add 4
+
